@@ -1,0 +1,19 @@
+br {
+	margin: 10px;
+}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+a {
+	font-size: 25px;
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+}
+div {
+	margin: 2%;
+	text-align: center;
+}
